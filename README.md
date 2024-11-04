@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @ivandzz
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning UIKit
-- 📫 How to reach me: eMail: ivan.dzhul@gmail.com, Telegram: @ivandzz
+# Hi there, I'm Ivan Dzhulynskyi 👋
 
-<!---
-ivandzz/ivandzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an 18-year-old Software Engineering student and a self-taught iOS developer with a passion for building amazing applications. 
+
+## 🛠 Skills
+- **Languages & Frameworks**: 
+  - Swift, SwiftUI, UIKit, SwiftData, CoreData, Firebase
+- **Architectures**: 
+  - MVVM, MVC
+- **Tools**: 
+  - Xcode, SPM, CocoaPods, Git
+- **Concepts**: 
+  - AutoLayout, Multithreading, Networking, OOP, Algorithms and Data Structures
+
+## 📫 Contact Me
+- **Telegram**: [@ivandzz](https://t.me/ivandzz)
+- **Email**: [ivan.dzhul@gmail.com](mailto:ivan.dzhul@gmail.com)
+- **LinkedIn**: [Ivan Dzhulynskyi](https://www.linkedin.com/in/ivandzz/)
+
+Feel free to reach out if you have any questions or if you just want to connect!
