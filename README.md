@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Dzhulynskyi 👋
 
-I'm an 18-year-old Software Engineering student and a self-taught iOS developer with a passion for building amazing applications. 
+I’m an 18-year-old Software Engineering student and a motivated self-taught iOS developer with a passion for building amazing applications while pursuing my degree.
 
 ## 🛠 Skills
 - **Languages & Frameworks**: 
@@ -10,7 +10,7 @@ I'm an 18-year-old Software Engineering student and a self-taught iOS developer 
 - **Tools**: 
   - Xcode, SPM, CocoaPods, Git
 - **Concepts**: 
-  - AutoLayout, Multithreading, Networking, OOP, Algorithms and Data Structures
+  - AutoLayout, Multithreading, Networking, Singleton, OOP, Algorithms and Data Structures
 
 ## 📫 Contact Me
 - **Telegram**: [@ivandzz](https://t.me/ivandzz)
