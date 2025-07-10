@@ -1,16 +1,31 @@
 # Hi there, I'm Ivan Dzhulynskyi 👋
 
-I’m an 18-year-old Software Engineering student and a motivated self-taught iOS developer with a passion for building amazing applications while pursuing my degree.
+I’m a 3rd-year Software Engineering student and a self-taught iOS developer with over 6 months of hands-on experience building and shipping Swift apps. I focus on creating clean, modern Swift apps and continuously grow my skills through my projects.
 
-## 🛠 Skills
-- **Languages & Frameworks**: 
-  - Swift, SwiftUI, UIKit, SwiftData, CoreData, Firebase
-- **Architectures**: 
-  - MVVM, MVC
-- **Tools**: 
-  - Xcode, SPM, CocoaPods, Git
-- **Concepts**: 
-  - AutoLayout, Multithreading, Networking, Singleton, OOP, Algorithms and Data Structures
+## 🛠 Tech Stack
+
+### Languages & Apple SDKs
+- **Swift**
+- **SwiftUI**, **UIKit**
+- **SwiftData**, **CoreData**
+- **MapKit**, **AVFoundation**
+- **Combine**
+
+### Third-Party SDKs
+- **Firebase** (Auth, Firestore, Storage, Functions, Remote Config, Messaging)
+- **RevenueCat**, **Adapty** (in-app subscriptions)
+- **AppsFlyer** (analytics)
+- **Kingfisher** (image downloading & caching)
+
+### Development Tools
+- **Xcode**, **Git (GitHub)**
+- **Swift Package Manager**, **CocoaPods**
+
+### Software Architecture & Concepts
+- **MVVM**, **MVC**, **OOP**, **Singleton**
+- **Concurrency**: GCD, async/await
+- **Networking**: URLSession, offline caching
+- **Algorithms & Data Structures**
 
 ## 📫 Contact Me
 - **Telegram**: [@ivandzz](https://t.me/ivandzz)
