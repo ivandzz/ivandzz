@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Dzhulynskyi 👋
 
-I’m a 3rd-year Software Engineering student and a self-taught iOS developer with over 7 months of hands-on experience building and shipping Swift apps. I focus on creating clean, modern Swift apps and continuously grow my skills through my projects.
+I’m an iOS developer with over 7 months of hands-on experience building and shipping Swift apps. I focus on creating clean, modern Swift apps and continuously grow my skills through my projects.
 
 ## 🛠 Tech Stack
 
@@ -8,7 +8,7 @@ I’m a 3rd-year Software Engineering student and a self-taught iOS developer wi
 - **Swift**
 - **SwiftUI**, **UIKit**
 - **SwiftData**, **CoreData**
-- **MapKit**, **AVFoundation**
+- **MapKit**, **CoreLocation**, **AVFoundation**
 - **Combine**
 
 ### Third-Party SDKs
@@ -24,7 +24,7 @@ I’m a 3rd-year Software Engineering student and a self-taught iOS developer wi
 - **MVVM**, **MVC**, **OOP**, **Singleton**
 - **Concurrency**: GCD, async/await
 - **Networking**: URLSession, offline data handling and caching
-- **Algorithms & Data Structures**
+- **Deeplinks**, **Algorithms & Data Structures**
 
 ### Development Tools
 - **Xcode**, **Git (GitHub, GitLab)**
