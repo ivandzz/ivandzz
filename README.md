@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Dzhulynskyi 👋
 
-I’m an iOS developer with over 7 months of hands-on experience building and shipping Swift apps. I focus on creating clean, modern Swift apps and continuously grow my skills through my projects.
+I’m an iOS developer with over 10 months of hands-on experience building and shipping Swift apps. I focus on creating clean, modern Swift apps and continuously grow my skills through my projects.
 
 ## 🛠 Tech Stack
 
